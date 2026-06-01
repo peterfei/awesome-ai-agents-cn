@@ -1,6 +1,6 @@
 ---
 title: 用 LangGraph 搭建 Text-to-SQL 查询 Agent
-author: @peterfei
+author: "@peterfei"
 date: 2026-05
 stack: LangGraph, Claude Sonnet, PostgreSQL, LangSmith
 difficulty: 进阶

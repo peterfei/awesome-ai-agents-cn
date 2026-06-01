@@ -1,6 +1,6 @@
 ---
 title: 用 Claude Code + MCP 做自动 Code Review
-author: @peterfei
+author: "@peterfei"
 date: 2026-05
 stack: Claude Code, GitHub MCP Server, Model Context Protocol
 difficulty: 入门

@@ -1,6 +1,6 @@
 ---
 title: 用 Claude Code + MCP 做日志分析故障排查 Agent
-author: @peterfei
+author: "@peterfei"
 date: 2026-06
 stack: Claude Code, MCP, Shell, Kubernetes
 difficulty: 进阶

@@ -1,6 +1,6 @@
 ---
 title: 用 Coze 做公众号自动运营 Agent
-author: @peterfei
+author: "@peterfei"
 date: 2026-05
 stack: Coze, GPT-4o, RSS, 微信公众号 API
 difficulty: 入门

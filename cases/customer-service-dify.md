@@ -1,6 +1,6 @@
 ---
 title: 用 Dify 搭建电商客服自动回复 Agent
-author: @peterfei
+author: "@peterfei"
 date: 2026-05
 stack: Dify, DeepSeek V3, RAG
 difficulty: 入门

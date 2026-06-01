@@ -13,7 +13,7 @@
 ```markdown
 ---
 title: 案例标题
-author: @你的GitHub用户名
+author: "@你的GitHub用户名"
 date: 2026-MM
 stack: 技术栈，逗号分隔
 difficulty: 入门 / 进阶 / 专家

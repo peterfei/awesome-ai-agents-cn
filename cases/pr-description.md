@@ -1,6 +1,6 @@
 ---
 title: 用 Claude Code 自动生成 PR 描述
-author: @peterfei
+author: "@peterfei"
 date: 2026-05
 stack: Claude Code, Git, GitHub CLI
 difficulty: 入门
